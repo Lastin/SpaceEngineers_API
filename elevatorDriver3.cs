@@ -12,7 +12,7 @@ int targetFloor;
 bool running = false;
 double lastY;
 double speed;
-//aka int array-method, because arrays don't fucking work in this fucking game
+//aka int array-method, because arrays don't work
 double floors(int i){
     switch(i){
         case 0: return 437;
